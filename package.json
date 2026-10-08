@@ -1,0 +1,15 @@
+{
+  "name": "purescript-opencode",
+  "version": "0.0.1",
+  "description": "PureScript bindings for OpenCode terminal plugins and OpenTUI",
+  "license": "MIT",
+  "repository": "github:rowtype-yoga/purescript-opencode",
+  "private": true,
+  "type": "module",
+  "peerDependencies": {
+    "@opencode/plugin": "2.0.26",
+    "@opentui/core": "0.5.17",
+    "@opentui/solid": "0.5.17",
+    "solid-js": "^1.9.15"
+  }
+}
