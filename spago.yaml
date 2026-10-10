@@ -18,7 +18,7 @@ package:
       - package.json
       - LICENSE
     location:
-      githubOwner: markgrafhq
+      githubOwner: rowtype-yoga
       githubRepo: purescript-opencode
 workspace:
   packageSet:

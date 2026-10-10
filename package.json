@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "PureScript bindings for OpenCode terminal plugins and OpenTUI",
   "license": "MIT",
-  "repository": "github:markgrafhq/purescript-opencode",
+  "repository": "github:rowtype-yoga/purescript-opencode",
   "private": true,
   "type": "module",
   "peerDependencies": {
